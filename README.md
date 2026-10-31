@@ -6,8 +6,8 @@ ABRA yazılım eğitimindeki uygulamaları, akış şemalarını ve ileride haz�
 
 | Çalışma | Durum |
 | --- | --- |
-| GitHub teslim klasörleri ve README dosyaları | Yerel olarak hazır |
-| GitHub public repo ve push | Yayın hazırlığında |
+| GitHub teslim klasörleri ve README dosyaları | GitHub’a yüklendi |
+| GitHub public repo ve push | Public repo oluşturuldu; dosyalar web arayüzünden yüklendi |
 | Algoritma örnekleri | Beş düzenlenebilir Draw.io ve beş PNG hazır; örnek girdilerle kontrol edildi |
 | GitHub ve algoritma eğitim videoları | İzlendi |
 | Ubuntu kurulumu | Kurulum aşamasında |
