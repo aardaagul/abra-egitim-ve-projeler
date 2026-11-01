@@ -12,7 +12,7 @@ ABRA yazılım eğitimindeki uygulamaları, akış şemalarını ve ileride haz�
 | GitHub ve algoritma eğitim videoları | İzlendi |
 | Ubuntu kurulumu | Kurulum aşamasında |
 | uname -a ekran görüntüsü | Kurulum tamamlandıktan sonra eklenecek |
-| Takıma repo bağlantısının iletilmesi ve değerlendirme | Yapılmadı |
+| Takıma repo bağlantısının iletilmesi ve değerlendirme | Yapıldı |
 
 ## Klasör yapısı
 
