@@ -10,7 +10,7 @@ ABRA yazılım eğitimindeki uygulamaları, akış şemalarını ve ileride haz�
 | GitHub public repo ve push | Public repo oluşturuldu; dosyalar web arayüzünden yüklendi |
 | Algoritma örnekleri | Beş düzenlenebilir Draw.io ve beş PNG hazır; örnek girdilerle kontrol edildi |
 | GitHub ve algoritma eğitim videoları | İzlendi |
-| Ubuntu kurulumu | Kurulum aşamasında |
+| Ubuntu kurulumu | Kurulum aşamasında (WSL mevcut) |
 | uname -a ekran görüntüsü | Kurulum tamamlandıktan sonra eklenecek |
 | Takıma repo bağlantısının iletilmesi ve değerlendirme | Yapıldı |
 
