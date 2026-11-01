@@ -42,4 +42,3 @@ EĞİTİM PROGRAMI belgesinin 2. bölümü tek bir public GitHub deposu, görev 
 
 Bu depoda algoritmik düşünme, koşullar ve döngüler üzerine beş **örnek çalışma** yer alır. Örnekler eğitim belgesinde verilmiş resmî zorunlu sorular değildir.
 
-Belgedeki algoritma teslim aralığı 24–31 Ekim 2026'dır. Kabul ve değerlendirme takımın yetkisindedir. Her görev için tek gösterim hakkı bulunduğundan, sunum öncesinde örneklerin farklı girdilerle kontrol edilmesi önemlidir.
